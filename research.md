@@ -59,6 +59,7 @@ We welcome additions to this list in the form of [pull requests](https://github.
 ## 2021
 
 @@tight-list
+* **Supply and Demand in a Two-Sector Matching Model**. Paweł Gola. _Journal of Political Economy 126_ no. 3 (2021). doi: [doi.org/10.1086/712507](https://www.journals.uchicago.edu/doi/10.1086/712507). Preprint: [author's webpage](http://www.pawelgola.com/SupplyDemandGola.pdf). Codes: [author's webpage](http://www.pawelgola.com/SupplyDemandCode)
 * **Geostatistical Learning: Challenges and Opportunities**. Júlio Hoffimann, Maciel Zortea, Breno de Carvalho, Bianca Zadrozny. Frontiers in Applied Mathematics and Statistics 2021. [10.3389/fams.2021.689393](https://www.frontiersin.org/articles/10.3389/fams.2021.689393/full). Package: [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl)
 * **Asymptotically Optimal Strategies For Combinatorial Semi-Bandits in Polynomial Time**. Thibaut Cuvelier, Richard Combes, Éric Gourdin. Algorithmic Learning Theory (ALT) 2021, Paris (France). arXiv: [2102.07254](https://arxiv.org/abs/2102.07254). Package: [CombinatorialBandits.jl](https://github.com/dourouc05/CombinatorialBandits.jl).
 * **Statistically Efficient, Polynomial Time Algorithms for Combinatorial Semi Bandits**. Thibaut Cuvelier, Richard Combes, Éric Gourdin. ACM SIGMETRICS 2021, Beijing (China). arXiv: [2002.07258](https://arxiv.org/abs/2002.07258). Packages: [CombinatorialBandits.jl](https://github.com/dourouc05/CombinatorialBandits.jl), [Kombinator.jl](https://github.com/dourouc05/Kombinator.jl).
